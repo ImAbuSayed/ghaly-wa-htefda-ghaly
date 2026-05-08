@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghaly Wa Htefda Ghaly
+
+This log tracks the cryptographic history and versioning for the song **Ghaly Wa Htefda Ghaly** (ghaly-wa-htefda-ghaly).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:57:52.235691 | `v1` | `19538ddc848a77db96a0ad92f22a3daa33623af463b183a3e1895599261fc499` | `3f14a95d73badb4e453df62ef467f51a5c53c69638251633d4a7f42ba673a982` | `2026-05-08_ghaly-wa-htefda-ghaly-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
